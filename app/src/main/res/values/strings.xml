@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">DataBinding</string>
     <string name="btn_txt_review">Calificar</string>
+    <string name="hint_input_user_name">Escribe tu usuario</string>
 </resources>
